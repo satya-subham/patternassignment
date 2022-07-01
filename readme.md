@@ -1,1 +1,1 @@
-<img src="/Pattern Assignment/q1.png" />
+<img src="/Pattern Assignments/q1.png" />
